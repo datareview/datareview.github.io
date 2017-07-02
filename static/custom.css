@@ -14,7 +14,11 @@ body {
 }
 
 th {
+<<<<<<< HEAD
   font-size: 14px;
+=======
+  font-size: 13px;
+>>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
   font-weight: normal;
   background: #b9c9fe;
   border-top: 4px solid #aabcfe;

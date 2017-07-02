@@ -5,28 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://datareview.github.io/</loc>
+<<<<<<< HEAD
 <lastmod>2017-07-02T19:50:05-00:00</lastmod>
+=======
+<lastmod>2017-07-02T10:00:16-00:00</lastmod>
+>>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://datareview.github.io/archives.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-07-02T19:50:05-00:00</lastmod>
+=======
+<lastmod>2017-07-02T10:00:16-00:00</lastmod>
+>>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://datareview.github.io/tags.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-07-02T19:50:05-00:00</lastmod>
+=======
+<lastmod>2017-07-02T10:00:16-00:00</lastmod>
+>>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://datareview.github.io/categories.html</loc>
+<<<<<<< HEAD
 <lastmod>2017-07-02T19:50:05-00:00</lastmod>
+=======
+<lastmod>2017-07-02T10:00:16-00:00</lastmod>
+>>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
