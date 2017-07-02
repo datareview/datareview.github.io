@@ -4,128 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://datareview.github.io/</loc>
-<<<<<<< HEAD
-<lastmod>2017-07-02T19:50:05-00:00</lastmod>
-=======
-<lastmod>2017-07-02T10:00:16-00:00</lastmod>
->>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
+<loc>/</loc>
+<lastmod>2017-07-02T19:59:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/archives.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-07-02T19:50:05-00:00</lastmod>
-=======
-<lastmod>2017-07-02T10:00:16-00:00</lastmod>
->>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
+<loc>/archives.html</loc>
+<lastmod>2017-07-02T19:59:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tags.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-07-02T19:50:05-00:00</lastmod>
-=======
-<lastmod>2017-07-02T10:00:16-00:00</lastmod>
->>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
+<loc>/tags.html</loc>
+<lastmod>2017-07-02T19:59:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/categories.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-07-02T19:50:05-00:00</lastmod>
-=======
-<lastmod>2017-07-02T10:00:16-00:00</lastmod>
->>>>>>> 5cc15f31361cc259297ef0f155beed5e08207509
+<loc>/categories.html</loc>
+<lastmod>2017-07-02T19:59:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/pages/about.html</loc>
+<loc>/pages/about.html</loc>
 <lastmod>2017-02-07T15:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/pages/contact.html</loc>
+<loc>/pages/contact.html</loc>
 <lastmod>2017-02-07T16:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/IMDB_dataset.html</loc>
+<loc>/IMDB_dataset.html</loc>
 <lastmod>2017-06-30T19:20:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/google_history2.html</loc>
+<loc>/google_history2.html</loc>
 <lastmod>2017-02-10T12:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/google_history1.html</loc>
+<loc>/google_history1.html</loc>
 <lastmod>2017-02-09T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/category/r.html</loc>
+<loc>/category/r.html</loc>
 <lastmod>2017-06-30T19:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tag/vizualization.html</loc>
+<loc>/tag/vizualization.html</loc>
 <lastmod>2017-06-30T19:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tag/google-location.html</loc>
+<loc>/tag/google-location.html</loc>
 <lastmod>2017-02-10T12:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tag/r.html</loc>
+<loc>/tag/r.html</loc>
 <lastmod>2017-06-30T19:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tag/imdb.html</loc>
+<loc>/tag/imdb.html</loc>
 <lastmod>2017-06-30T19:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/tag/google-history.html</loc>
+<loc>/tag/google-history.html</loc>
 <lastmod>2017-02-10T12:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://datareview.github.io/author/oleksandr-kursik.html</loc>
+<loc>/author/oleksandr-kursik.html</loc>
 <lastmod>2017-06-30T19:20:00+02:02</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
